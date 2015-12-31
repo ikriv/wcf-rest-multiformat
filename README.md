@@ -1,5 +1,6 @@
 # wcf-rest-multiformat
-WCF restful service: returning data in different formats depending on request parameter
+WCF restful service: returning data in different formats depending on request parameter.
+
 More info:
 http://www.ikriv.com/blog/?p=1841
 
